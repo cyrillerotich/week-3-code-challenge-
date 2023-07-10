@@ -1,0 +1,41 @@
+img {
+display: inline-block;
+width:240px;
+}
+button {
+ margin: 16px;
+ background-color: aqua;
+ size: large;
+ width: 120px;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-size: large;
+ 
+}
+h1 {
+    align-items: center;
+    text-align: center;
+    size: large;
+    font-size: xx-large;
+}
+div#logo {
+background-color:orange;
+width:50;
+margin: 16px;
+
+}
+body{
+    background-color: bisque;
+}
+li{
+    list-style: none;
+    padding-left: left;
+    margin: 16px;
+    text-decoration: dotted;
+    text-align: center;
+    font-size: large;
+
+}
+div#movie-details{
+ font-style: initial;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
